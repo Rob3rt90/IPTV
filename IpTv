@@ -13,7 +13,7 @@ https://livefeed.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,ProTv Chişinau
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:-1,Antena 1
-https://live12it.antenaplay.ro/a1/1400.m3u8?starttime=1572624017&endtime=1572631247&source=web&token=G1A-b2GeZ6Jjqbdmvsoho15CFvc=
+https://live12it.antenaplay.ro/a1/1400.m3u8?starttime=1574518025&endtime=1574525255&source=web&token=WcWgs76Nc3SEVLq2_2v4JTfsfG4=
 #EXTINF:-1,DIGI 24 HD
 http://edge70.rcs-rds.ro/digi24edge/smil:digi24.smil/chunklist_w663420602_b2830400_sleng.m3u8
 #EXTINF:-1,Prima TV
